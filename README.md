@@ -15,7 +15,7 @@ Practice reading and editing a SKILL.md file, then check how one changed instruc
 3. In Copilot settings, open Manage plugins, then Custom skills. Open the skills folder in OneDrive and add the complete `markdown-revenue-review` folder. Keep that folder name and the skill's `name` identical. Refresh the list.
 4. Open the skill entry and choose Try it, then append the PASS 1 request from `practice-prompts.txt` after the skill mention. Do not duplicate the mention.
 5. In the installed SKILL.md, change only `**Variance Commentary**` to `**Manager Review**`. Save as SKILL.md, not SKILL.md.txt. Let OneDrive sync and refresh the skill list. Open the skill details and check that Manager Review appears in its Output instructions. Reload the workbook if an older copy remains visible.
-6. Run PASS 2. Check that the new sheet is Manager Review and the original review remains.
+6. Start a new Copilot chat, then run PASS 2. An existing conversation may continue using the earlier instructions even after the settings pane displays the updated file. Check that the new sheet is Manager Review and the original review remains.
 
 ## What to check
 
