@@ -4,4 +4,6 @@ PASS 1 - Run the original skill
 
 PASS 2 - After changing the output sheet name in the installed SKILL.md
 
+Refresh Custom skills and confirm Manager Review appears in the skill details. Start a NEW Copilot chat before entering this prompt.
+
 @markdown-revenue-review Re-read the installed SKILL.md and review the same tblRevenue on Data. Create the new output sheet using the name now specified in the skill. Keep Data and the first review unchanged. Confirm the new sheet name and whether both reviews contain the same selected locations and figures. If you cannot read the updated skill, stop and tell me.
